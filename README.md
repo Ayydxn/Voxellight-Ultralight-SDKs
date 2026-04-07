@@ -1,6 +1,6 @@
 # Voxellight Ultralight SDKs
 
-This repository simply hosts Ultralight SDK releases that [Voxellight](https://github.com/Ayydxn/Voxellight) will use to grab the Ultralight library files. This only exists because:
+This repository simply for anyone (myself especially) who has a reason and need to download the Ultralight SDK programatically. This only exists because:
 1. The DigitalOcean Spaces server which [apparenetly holds the "latest" version of SDK](https://github.com/ultralight-ux/Ultralight?tab=readme-ov-file#eyes-getting-the-latest-sdk) is actually out of date and the latest build on there is from 2019.
 2. Making a web request that'll download the SDK from the website has multiple hurdles with it (such as authentication since you need to be logged in on the website to download it) and is pretty much impractical.
 
